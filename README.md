@@ -1,4 +1,4 @@
-Get a handle on Handly
+Get a Handle on Handly
 ======================
 
 This repository hosts a step-by-step guide to
